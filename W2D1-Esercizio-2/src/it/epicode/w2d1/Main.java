@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-	int km, lt;
+	int km, lt; 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
